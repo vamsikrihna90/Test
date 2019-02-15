@@ -11,6 +11,8 @@ Hi Rake
 Okay motivitylabs
 Swetha
 Java
+Okay vamsi
+
 
 today added to master branch
 
